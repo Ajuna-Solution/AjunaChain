@@ -1,13 +1,13 @@
 # 🌐 AjunaVerse MVP
 
 <p align="center">
-  <img src="./assets/hero-banner.png" alt="AjunaVerse Banner" width="100%" />
+  <img src="./public/hero-banner.png" alt="AjunaVerse Banner" width="100%" />
 </p>
 
-[![Node.js](https://img.shields.io/badge/Node.js-v18-brightgreen)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-v22-brightgreen)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 [![Polygon](https://img.shields.io/badge/Polygon-EVM-purple)](https://polygon.technology/)
-[![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-orange)](https://soliditylang.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-^0.8.28-orange)](https://soliditylang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
