@@ -1,4 +1,8 @@
-# 🌐 AetSoftVerse MVP
+# 🌐 AjunaVerse MVP
+
+<p align="center">
+  <img src="./assets/hero-banner.png" alt="AjunaVerse Banner" width="100%" />
+</p>
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18-brightgreen)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
@@ -10,7 +14,7 @@
 
 ## 🚀 Introduction
 
-**AetSoftVerse** is an immersive, decentralized Metaverse platform where users can explore, interact, and transact in a virtual world.  
+**AjunaVerse** is an immersive, decentralized Metaverse platform where users can explore, interact, and transact in a virtual world.  
 It leverages blockchain technology for ownership, transparency, and verifiable scarcity of digital assets.
 
 **Key Features:**
